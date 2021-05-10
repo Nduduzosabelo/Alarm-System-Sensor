@@ -1,5 +1,5 @@
 # Alarm-System-Sensor
-#Create Alarm System Using Buzzer and Ultrasonic Sensor
+# Create Alarm System Using Buzzer and Ultrasonic Sensor
 
 Setup power supply by connecting one end of a jumper wire to 5v pin of the Arduino Uno and the other to the "+" on the breadboard.
 
