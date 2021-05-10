@@ -1,9 +1,10 @@
 # Alarm-System-Sensor
 # Create Alarm System Using Buzzer and Ultrasonic Sensor
-* .[Instruction].(#Instruction)
+* .[Instructions].(#Instructions)
 * .[Write code].(#Write code)
 
 <a name = "Instrucion"></a>
+## Instructions
 Setup power supply by connecting one end of a jumper wire to 5v pin of the Arduino Uno and the other to the "+" on the breadboard.
 
 Connect another wire to the GND pin on the uno and the "-" of the breadboard.
@@ -21,3 +22,4 @@ Connect the trig pin to digital pin 10 on Arduino.
 Connect the echo pin to digital pin 9
 
 <a name = "Write code"></a>
+## Write Code
