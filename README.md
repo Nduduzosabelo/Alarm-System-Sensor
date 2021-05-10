@@ -25,6 +25,11 @@ Connect the echo pin to digital pin 9
 
 <a name = "Material needed"></a>
 ## Material needed
+* Arduino Uno
+* Buzzer
+* Ultrasonic Sensor
+* Breadboard
+* Jumper Wires
 
 <a name = "Write code"></a>
 ## Write code
