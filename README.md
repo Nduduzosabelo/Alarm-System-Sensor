@@ -1,7 +1,9 @@
 # Alarm-System-Sensor
 # Create Alarm System Using Buzzer and Ultrasonic Sensor
 * [Instructions](#Instructions)
+* [Material needed](#Material needed)
 * [Write code](#Write code)
+
 
 <a name = "Instrucion"></a>
 ## Instructions
