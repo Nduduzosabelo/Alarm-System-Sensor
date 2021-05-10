@@ -23,6 +23,9 @@ Connect the trig pin to digital pin 10 on Arduino.
 
 Connect the echo pin to digital pin 9
 
+<a name = "Material needed"></a>
+## Material needed
+
 <a name = "Write code"></a>
 ## Write code
 On the arduino IDE open a new sketch: File>New...
